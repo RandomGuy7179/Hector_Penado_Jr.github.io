@@ -2089,7 +2089,7 @@ input, select, textarea {
 		text-decoration: none;
 		text-transform: uppercase;
 		white-space: nowrap;
-		width: 200px;
+		width: fit-content;
 	}
 
 		input[type="submit"].icon:before,
